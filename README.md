@@ -1,5 +1,5 @@
-# geolite2ipv4city
-- Maxmind GeoLite2 IPv4 City CSV File
+# geolite2ipv4countiry
+- Maxmind GeoLite2 IPv4 Country CSV File
 - Generated 3/7/2024
 
 # Format
